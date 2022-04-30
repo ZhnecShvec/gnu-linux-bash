@@ -4,7 +4,7 @@ dir=`dirname $0`
 result_file="$dir/users_list.txt"
 
 # settings:
-count_users=500 # max users count
+count_users=10 # max users count
 
 rm $result_file
 
